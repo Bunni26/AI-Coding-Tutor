@@ -1,0 +1,13 @@
+flask==2.3.3
+requests==2.31.0
+python-dotenv==1.0.0
+flask-cors==4.0.0
+pydantic==2.5.2
+python-jose==3.3.0
+firebase-admin==6.2.0
+gunicorn==21.2.0
+langchain-core==0.1.53
+langchain-community==0.0.24
+aiohttp==3.11.16
+SQLAlchemy==2.0.40
+PyYAML==6.0.2 
